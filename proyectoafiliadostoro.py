@@ -5,7 +5,7 @@ import base64
 st.set_page_config(page_title="Torogold18k", layout="wide")
 
 # Convertir el logo y la nueva imagen en la pantalla principal a base64
-logo_path = "C:/Users/juanc/Downloads/Diseño sin título.png"
+logo_path = "Diseño sin título.png"
 main_image_path = "C:/Users/juanc/Downloads/FreeSample-Vectorizer-io-Screenshot-2024-10-28-234219-removebg-preview.png"
 
 with open(logo_path, "rb") as image_file:
